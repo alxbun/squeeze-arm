@@ -1,6 +1,6 @@
 #!/bin/bash 
 
-export packages="nmap openssh-server mc sudo gcc make"
+export packages="nmap openssh-server mc sudo gcc make autoconf autoheader"
 export architecture="armel"
 export dist="squeeze"
 export LOGIN=`whoami`
